@@ -175,5 +175,3 @@ This project is licensed under the Apache V2 License. See [LICENSE](LICENSE) for
 ---
 
 <b id="f1">1</b>: "Venia" is the name of the sample progressive web app development by Magento. It has a specific theme which has been applied to our project, event though we're using classic AEM components [&#8617;](#a1)
-
-TEST
