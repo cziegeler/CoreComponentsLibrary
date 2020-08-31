@@ -1,0 +1,15 @@
+#
+# This file contains the filter ACL, and can be customized.
+#
+# By default, it includes the default filter ACL.
+#
+
+$include "./default_filters.any"
+
+# Allow components JSON model
+/0101 { /type "allow" /extension "json" /selectors "model" /path "/content/*" }
+
+# Allow access to GraphQL servlet
+/0102 { /type "allow" /url "/apps/cif-components-examples/graphql" }
+# Allow access to product list pages (blocked by numeric rule for selectors)
+/0103 { /type "allow" /url "/content/core-components-examples/library/commerce/productlist.*.html" }
