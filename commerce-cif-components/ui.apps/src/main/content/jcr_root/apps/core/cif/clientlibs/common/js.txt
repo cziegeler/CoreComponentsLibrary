@@ -1,0 +1,3 @@
+lib/handlebars.min.js
+
+dist/index.js

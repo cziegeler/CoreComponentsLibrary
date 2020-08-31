@@ -1,0 +1,65 @@
+{
+  "data": {
+    "products": {
+      "items": [
+        {
+          "__typename": "SimpleProduct",
+          "upsell_products": [
+            {
+              "__typename": "SimpleProduct",
+              "sku": "24-MG03",
+              "name": "Summit Watch",
+              "thumbnail": {
+                "label": "Summit Watch",
+                "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/summit-watch/mg03-br-0.jpg"
+              },
+              "url_key": "summit-watch",
+              "price_range": {
+                "minimum_price": {
+                  "regular_price": {
+                    "value": 54,
+                    "currency": "USD"
+                  },
+                  "final_price": {
+                    "value": 54,
+                    "currency": "USD"
+                  },
+                  "discount": {
+                    "amount_off": 0,
+                    "percent_off": 0
+                  }
+                }
+              }
+            },
+            {
+              "__typename": "SimpleProduct",
+              "sku": "24-WG01",
+              "name": "Bolo Sport Watch",
+              "thumbnail": {
+                "label": "Image",
+                "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/bolo-sport-watch/wg01-bk-0.jpg"
+              },
+              "url_key": "bolo-sport-watch",
+              "price_range": {
+                "minimum_price": {
+                  "regular_price": {
+                    "value": 49,
+                    "currency": "USD"
+                  },
+                  "final_price": {
+                    "value": 49,
+                    "currency": "USD"
+                  },
+                  "discount": {
+                    "amount_off": 0,
+                    "percent_off": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

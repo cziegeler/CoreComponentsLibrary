@@ -1,0 +1,18 @@
+{
+  "data": {
+    "category__category_15": {
+      "id": 15,
+      "name": "Men's Jackets",
+      "url_path": "men/tops-men/jackets-men",
+      "position": 1,
+      "image": null
+    },
+    "category__category_24": {
+      "id": 24,
+      "name": "Women's Jackets",
+      "url_path": "women/tops-women/jackets-women",
+      "position": 1,
+      "image": null
+    }
+  }
+}

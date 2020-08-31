@@ -1,0 +1,898 @@
+{
+  "data": {
+    "products": {
+      "items": [
+        {
+          "__typename": "SimpleProduct",
+          "sku": "24-MB02",
+          "name": "Fusion Backpack",
+          "thumbnail": {
+            "label": "Fusion Backpack",
+            "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/fusion-backpack/mb02-gray-0.jpg"
+          },
+          "url_key": "fusion-backpack",
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 59,
+                "currency": "USD"
+              },
+              "final_price": {
+                "value": 59,
+                "currency": "USD"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        },
+        {
+          "__typename": "ConfigurableProduct",
+          "sku": "MH01",
+          "name": "Chaz Kangeroo Hoodie",
+          "thumbnail": {
+            "label": "Chaz Kangeroo Hoodie",
+            "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-gray_main_2.jpg"
+          },
+          "url_key": "chaz-kangeroo-hoodie",
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 52,
+                "currency": "USD"
+              },
+              "final_price": {
+                "value": 52,
+                "currency": "USD"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            },
+            "maximum_price": {
+              "regular_price": {
+                "value": 52,
+                "currency": "USD"
+              },
+              "final_price": {
+                "value": 52,
+                "currency": "USD"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          "variants": [
+            {
+              "product": {
+                "sku": "MH01-XS-Black",
+                "name": "Chaz Kangeroo Hoodie-XS-Black",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-XS-Black",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-black_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-XS-Gray",
+                "name": "Chaz Kangeroo Hoodie-XS-Gray",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-XS-Gray",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-gray_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-XS-Orange",
+                "name": "Chaz Kangeroo Hoodie-XS-Orange",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-XS-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-S-Black",
+                "name": "Chaz Kangeroo Hoodie-S-Black",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-S-Black",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-black_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-S-Gray",
+                "name": "Chaz Kangeroo Hoodie-S-Gray",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-S-Gray",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-gray_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-S-Orange",
+                "name": "Chaz Kangeroo Hoodie-S-Orange",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-S-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-M-Black",
+                "name": "Chaz Kangeroo Hoodie-M-Black",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-M-Black",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-black_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-M-Gray",
+                "name": "Chaz Kangeroo Hoodie-M-Gray",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-M-Gray",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-gray_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-M-Orange",
+                "name": "Chaz Kangeroo Hoodie-M-Orange",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-M-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-L-Black",
+                "name": "Chaz Kangeroo Hoodie-L-Black",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-L-Black",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-black_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-L-Gray",
+                "name": "Chaz Kangeroo Hoodie-L-Gray",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-L-Gray",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-gray_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-L-Orange",
+                "name": "Chaz Kangeroo Hoodie-L-Orange",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-L-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-XL-Black",
+                "name": "Chaz Kangeroo Hoodie-XL-Black",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-XL-Black",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-black_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-XL-Gray",
+                "name": "Chaz Kangeroo Hoodie-XL-Gray",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-XL-Gray",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-gray_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "MH01-XL-Orange",
+                "name": "Chaz Kangeroo Hoodie-XL-Orange",
+                "thumbnail": {
+                  "label": "Chaz Kangeroo Hoodie-XL-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/chaz-kangeroo-hoodie/mh01-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 52,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "ConfigurableProduct",
+          "sku": "WJ04",
+          "name": "Ingrid Running Jacket",
+          "thumbnail": {
+            "label": "Ingrid Running Jacket",
+            "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-white_main_2.jpg"
+          },
+          "url_key": "ingrid-running-jacket",
+          "price_range": {
+            "minimum_price": {
+              "regular_price": {
+                "value": 84,
+                "currency": "USD"
+              },
+              "final_price": {
+                "value": 84,
+                "currency": "USD"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            },
+            "maximum_price": {
+              "regular_price": {
+                "value": 84,
+                "currency": "USD"
+              },
+              "final_price": {
+                "value": 84,
+                "currency": "USD"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          "variants": [
+            {
+              "product": {
+                "sku": "WJ04-XS-Orange",
+                "name": "Ingrid Running Jacket-XS-Orange",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-XS-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-XS-Red",
+                "name": "Ingrid Running Jacket-XS-Red",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-XS-Red",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-red_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-XS-White",
+                "name": "Ingrid Running Jacket-XS-White",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-XS-White",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-white_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-S-Orange",
+                "name": "Ingrid Running Jacket-S-Orange",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-S-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-S-Red",
+                "name": "Ingrid Running Jacket-S-Red",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-S-Red",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-red_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-S-White",
+                "name": "Ingrid Running Jacket-S-White",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-S-White",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-white_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-M-Orange",
+                "name": "Ingrid Running Jacket-M-Orange",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-M-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-M-Red",
+                "name": "Ingrid Running Jacket-M-Red",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-M-Red",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-red_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-M-White",
+                "name": "Ingrid Running Jacket-M-White",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-M-White",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-white_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-L-Orange",
+                "name": "Ingrid Running Jacket-L-Orange",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-L-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-L-Red",
+                "name": "Ingrid Running Jacket-L-Red",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-L-Red",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-red_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-L-White",
+                "name": "Ingrid Running Jacket-L-White",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-L-White",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-white_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-XL-Orange",
+                "name": "Ingrid Running Jacket-XL-Orange",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-XL-Orange",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-orange_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-XL-Red",
+                "name": "Ingrid Running Jacket-XL-Red",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-XL-Red",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-red_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "product": {
+                "sku": "WJ04-XL-White",
+                "name": "Ingrid Running Jacket-XL-White",
+                "thumbnail": {
+                  "label": "Ingrid Running Jacket-XL-White",
+                  "url": "/content/dam/core-components-examples/library/cif-sample-assets/catalog/product/ingrid-running-jacket/wj04-white_main_2.jpg"
+                },
+                "price_range": {
+                  "minimum_price": {
+                    "regular_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "final_price": {
+                      "value": 84,
+                      "currency": "USD"
+                    },
+                    "discount": {
+                      "amount_off": 0,
+                      "percent_off": 0
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
