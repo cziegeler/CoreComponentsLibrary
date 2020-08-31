@@ -129,5 +129,3 @@ For convenience, the following deployment profiles are provided when running the
 The hostname and port of the instance can be changed with the following user defined properties:
 * `aem.host` and `aem.port` for the author instance.
 * `aem.publish.host` and `aem.publish.port` for the publish instance.
-
-Test
